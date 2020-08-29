@@ -1,0 +1,5 @@
+environment: venv
+  activate command: 'source .venv/bin/activate' or '. .venv/bin/activate'
+  deactivate command: 'deactivate'
+
+
